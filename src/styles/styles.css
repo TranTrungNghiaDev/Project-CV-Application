@@ -1,0 +1,33 @@
+body {
+    background-image: url('../assets/background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+input {
+    margin: 10px auto;
+    display: block;
+    width: 100%;
+}
+
+input[type="date"] {
+    display: inline-block;
+}
+
+button {
+    margin: 20px auto;
+    padding: 10px 20px;
+    display: block;
+    width: 100%;
+}
+
+#form {
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+}
